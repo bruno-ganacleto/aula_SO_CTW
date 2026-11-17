@@ -1,0 +1,5 @@
+Sistema Operacional         : Windows
+Usuário Logado              : bruno_anacleto
+Diretório Atual             : C:\Users\bruno_anacleto\Desktop\Desafio_SO_BrunoGabrielAnacleto
+
+Informe o Status da Máquina : 
